@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Marco, 25 years old guy from Brescia, Italy.
+I'm currently working as a software engineer at [Bending Spoons](https://github.com/BendingSpoons).  
+Here I'm busy creating some of the most beloved video and photo editors on the App Store.
+
+Previously I was a a Master's student in Computer Engineering.
+
 <!--
 **MarcoCadei/MarcoCadei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
