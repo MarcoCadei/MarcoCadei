@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 I'm Marco, 25 years old guy from Brescia, Italy.  
 I'm currently working as a software engineer at [Bending Spoons](https://github.com/BendingSpoons).  
