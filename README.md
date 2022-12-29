@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Marco, 26 years old guy from Brescia, Italy.  
+I'm Marco, 27 years old guy from Brescia, Italy.  
 I'm currently working as a software engineer at [Bending Spoons](https://github.com/BendingSpoons).  
 Here I'm busy creating some of the most beloved video and photo editors on the App Store.
 
